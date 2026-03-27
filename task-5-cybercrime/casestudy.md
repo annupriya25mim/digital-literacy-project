@@ -1,12 +1,11 @@
-Cybercrime Case Study – UPI Payment Fraud
+# Cybercrime Case Study: UPI Payment Fraud
 
+UPI payment fraud is one of the most common cybercrimes in India. In this type of fraud, criminals trick victims into revealing sensitive financial information or approving fake payment requests. This usually happens through phone calls, fake messages, or malicious links.
 
-UPI payment fraud is one of the most common cybercrimes in India. In this type of fraud, attackers trick people into sharing sensitive information or approving fraudulent payment requests.
+For example, a student may receive a call from someone pretending to be a bank representative or a customer support executive. The fraudster may claim that there is an issue with the student’s bank account or that a reward or cashback is available. The victim is then asked to click on a suspicious link or approve a UPI request. In some cases, the attacker asks for OTPs or requests the victim to install remote access applications.
 
-Typically, the fraud starts when a scammer contacts the victim through a phone call, SMS, or social media message. The attacker may pretend to be a bank representative, customer support agent, or online buyer. They then send a fake payment request through a UPI application such as Google Pay, PhonePe, or Paytm.
+Once the victim shares the OTP or approves the UPI request, money is immediately transferred from the victim’s bank account to the attacker’s account. These transactions happen very quickly, making it difficult to recover the lost money.
 
-The victim is often told that they will receive money by approving the request. However, in reality, approving the request results in money being transferred from the victim’s account to the scammer’s account.
+Students and young internet users are often targeted because they frequently use digital payment apps such as Google Pay, PhonePe, and Paytm. Lack of awareness about cyber safety increases the chances of becoming a victim.
 
-Students, elderly individuals, and people unfamiliar with digital payments are often targeted. The consequences can include financial loss, stress, and loss of trust in online payment systems.
-
-Cybercrime awareness and careful verification of payment requests are essential to prevent such frauds.
+UPI fraud can lead to financial loss, stress, and misuse of personal information. Therefore, it is important for students to understand how such attacks happen and how they can protect themselves from cybercriminals.
